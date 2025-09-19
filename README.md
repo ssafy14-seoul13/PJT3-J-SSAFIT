@@ -15,11 +15,32 @@
 <br>
 
 ## 👥 팀 소개
-<table><tr><td align="center">
-<img width="225" height="225" src="https://github.com/user-attachments/assets/8bada491-2cc1-42c2-9a13-35f5458fa04f"/></td><td align="center">
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/126a8bf0-b0b3-4a4c-9413-b7645ebc4875" /></td></tr><tr><td align="center">
-TEAM짱 <a href="https://github.com/"><strong>안태리<strong></a></td><td align="center">
-TEAM1 <a href="https://github.com/zzero23"><strong>변지영<strong></a></td></tr></table>
+<table>
+  <tr>
+    <td align="center">
+      <img width="225" height="225" src="https://github.com/user-attachments/assets/8bada491-2cc1-42c2-9a13-35f5458fa04f"/>
+    </td>
+    <td align="center">
+      <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/126a8bf0-b0b3-4a4c-9413-b7645ebc4875" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      TEAM짱 <a href="https://github.com/"><strong>안태리</strong></a>
+    </td>
+    <td align="center">
+      TEAM1 <a href="https://github.com/zzero23"><strong>변지영</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      보고서 마스터
+    </td>
+    <td align="center">
+       리드미 마스터
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -45,41 +66,6 @@ TEAM1 <a href="https://github.com/zzero23"><strong>변지영<strong></a></td></t
 
 **🎞️ AI 활용**
 - **[팔로워 기반 영상 간단 추천]** 인접 Graph : 팔로잉하는 사람들의 찜 리스트 중 내가 찜하지 않은 영상 추천
-<br>
-
-## 📂 프로젝트 구조
-
-```
-PJT2-E-SSAFIT/
-├── PJT2_SSAFIT/
-│   ├── .vscode/
-│   ├── css/              # CSS 스타일시트
-│   │   ├── join.css
-│   │   ├── main.css
-│   │   ├── mypage.css
-│   │   └── parts.css
-│   ├── data/             # JSON 데이터 파일 (사용자, 비디오 정보)
-│   │   ├── users.json
-│   │   └── video.json
-│   ├── img/              # 이미지 파일
-│   ├── script/           # JavaScript 파일
-│   │   ├── header.js
-│   │   ├── join.js
-│   │   ├── login.js
-│   │   ├── main.js
-│   │   ├── mypage.js
-│   │   └── parts.js
-│   ├── join.html         # 회원가입 페이지
-│   ├── login.html        # 로그인 페이지
-│   ├── main.html         # 메인 페이지
-│   ├── mypage.html       # 마이페이지
-│   └── parts.html        # 부위별 운동 페이지
-└── README.md
-```
-<br>
-
-## 🤷 역할 분담
-<table> <tr> <th align="center"> 안태리 </th> <th align="center"> 변지영 </th> </tr> <tr> <td> <ul> <li> 보고서 작성</li> <li> AI 컨트롤 마스터</li> </ul> </td> <td> <ul> <li> 든든한 첨언자</li> <li> AI 컨트롤러</li> </ul> </td> </tr> </table>
 <br>
 
 ## 소감
