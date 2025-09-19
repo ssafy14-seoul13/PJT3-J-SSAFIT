@@ -18,10 +18,10 @@
 <table>
   <tr>
     <td align="center">
-      <img width="225" height="225" src="https://github.com/user-attachments/assets/c73a7caf-4384-4ed3-a2ec-a3c67ede6693"/>
+      <img width="225" height="225" src="https://github.com/user-attachments/assets/8a71102d-8cc7-444a-9f41-64c2a2bcacfe"/>
     </td>
     <td align="center">
-      <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/eb35b0bc-4ac0-4337-9796-429c3c7f1554" />
+      <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9390d29e-e747-41dc-9c20-1b1b601a2176" />
     </td>
   </tr>
   <tr>
