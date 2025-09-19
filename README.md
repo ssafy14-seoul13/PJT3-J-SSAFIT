@@ -18,15 +18,15 @@
 <table>
   <tr>
     <td align="center">
-      <img width="225" height="225" src="https://github.com/user-attachments/assets/8bada491-2cc1-42c2-9a13-35f5458fa04f"/>
+      <img width="225" height="225" src="https://github.com/user-attachments/assets/c73a7caf-4384-4ed3-a2ec-a3c67ede6693"/>
     </td>
     <td align="center">
-      <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/126a8bf0-b0b3-4a4c-9413-b7645ebc4875" />
+      <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/eb35b0bc-4ac0-4337-9796-429c3c7f1554" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      TEAM짱 <a href="https://github.com/"><strong>안태리</strong></a>
+      TEAM짱 <a href="https://github.com/T3rryAhn"><strong>안태리</strong></a>
     </td>
     <td align="center">
       TEAM1 <a href="https://github.com/zzero23"><strong>변지영</strong></a>
@@ -75,4 +75,6 @@
 <br>
 
 **변지영**
-> 어제의 나는 죽었다. 오늘의 나는 헬스왕으로 다시 태어난다.
+> 열심히 이해하려고 노력했습니다. 팀짱님이 너무 잘해주셔서 든든했습니다. <br>
+> 저도 이번 팀짱을 본받아, 다음에 다른 팀에서 팀짱님처럼 잘 할 수 있도록 성장하고 싶습니다. <br>
+> 알고리즘 역량이 아직 부족한 것 같은데, 알고리즘을 더욱 열심히 해서, 이번에 구현한 기능을 꼭 적용해 보고 싶습니다.
